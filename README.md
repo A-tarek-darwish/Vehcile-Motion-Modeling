@@ -1,4 +1,4 @@
-Machine Dynamics with MATLAB
+Vehicle Motion Modeling
 
 This project comprises of six milestones, that cover the exercises that I have finished during a course from RWTH Aachen. 
 The exercises were given by Msc Martin Lankers (martin.lankers.de) and a solution was provided after the work was completed 
